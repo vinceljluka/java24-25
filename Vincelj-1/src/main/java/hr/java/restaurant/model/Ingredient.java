@@ -1,32 +1,19 @@
 package hr.java.restaurant.model;
 
 import java.math.BigDecimal;
+import java.util.Scanner;
 
 public class Ingredient {
     private String name;
     private Category category;
     private BigDecimal kcal;
     private String preparationMethod;
-    private Integer quantityOnStock;
-    private Integer currentQuantityOnStock;
-    public static final int DEFAULT_QUANTITY_ON_STOCK = 100;
-
-    public Ingredient(String name, Category category, BigDecimal kcal, String preparationMethod, Integer quantityOnStock) {
-        this.name = name;
-        this.category = category;
-        this.kcal = kcal;
-        this.preparationMethod = preparationMethod;
-        this.quantityOnStock = quantityOnStock;
-        this.currentQuantityOnStock = quantityOnStock;
-    }
 
     public Ingredient(String name, Category category, BigDecimal kcal, String preparationMethod) {
         this.name = name;
         this.category = category;
         this.kcal = kcal;
         this.preparationMethod = preparationMethod;
-        this.quantityOnStock = DEFAULT_QUANTITY_ON_STOCK;
-        this.currentQuantityOnStock = quantityOnStock;
     }
 
     public String getName() {
@@ -61,38 +48,57 @@ public class Ingredient {
         this.preparationMethod = preparationMethod;
     }
 
-    public Integer getQuantityOnStock() {
-        return quantityOnStock;
-    }
-
-    public void setQuantityOnStock(Integer quantityOnStock) {
-        this.quantityOnStock = quantityOnStock;
-    }
-
-    public Integer getCurrentQuantityOnStock() {
-        return currentQuantityOnStock;
-    }
-
-    public void setCurrentQuantityOnStock(Integer currentQuantityOnStock) {
-        this.currentQuantityOnStock = currentQuantityOnStock;
-    }
-
-    public void decreaseQuantityOnStock()
-    {
-        while (true)
+    public static void inputIngredient(Ingredient[] ingredients, Category[] categories, Scanner scanner) {
+        for (int i = 0; i < ingredients.length; i++)
         {
-            if (quantityOnStock > 0)
+            System.out.print("Enter " + (i+1) + "." +  " ingredient's name: ");
+            String name = scanner.nextLine();
+
+            System.out.print("Chose " + (i+1) +  "." + " ingredient's category (index 1, 2 or 3) : \n");
+            for (int j = 0; j < categories.length; j++)
             {
-                currentQuantityOnStock = quantityOnStock - 1;
-                break;
+                System.out.println((j+1) + "." + categories[j].getName());
             }
-            else {
-                System.out.println("You don't have enough stock to decrease quantity");
+
+            int categoryIndex;
+            while (true) {
+                if (scanner.hasNextInt()) {
+                    categoryIndex = scanner.nextInt();
+                    scanner.nextLine();
+                    if (categoryIndex >= 1 && categoryIndex <= categories.length) {
+                        break;
+                    } else {
+                        System.out.println("Invalid input, please enter a category index between 1 and " + categories.length + ".");
+                    }
+                } else {
+                    System.out.println("Invalid input, please enter a valid integer for category index.");
+                    scanner.nextLine();
+                }
             }
+            Category category = categories[categoryIndex - 1];
+
+            System.out.print("Enter " + (i+1) + "." + " ingredient's calories: ");
+            BigDecimal kcal;
+            while (true) {
+                if (scanner.hasNextBigDecimal()) {
+                    kcal = scanner.nextBigDecimal();
+                    scanner.nextLine();
+                    if (kcal.compareTo(BigDecimal.ZERO) > 0) {
+                        break;
+                    } else {
+                        System.out.println("Calories must be greater than 0. Please enter a valid number.");
+                    }
+                } else {
+                    System.out.println("Invalid input, please enter a valid number for calories.");
+                    scanner.nextLine();
+                }
+            }
+            System.out.print("Enter preparation method for "  + (i+1) + "." + " ingredient: ");
+            String preparationMethod = scanner.nextLine();
+
+            ingredients[i] = new Ingredient(name, category, kcal, preparationMethod);
+
         }
-
     }
-
-
 
 }
