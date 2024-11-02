@@ -1,5 +1,6 @@
 package hr.java.restaurant.model;
 
+import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Category {
@@ -27,11 +28,15 @@ public class Category {
         this.description = description;
     }
 
-    public static Category inputCategory(Scanner scanner, int index) {
-        System.out.print("Enter " + (index+1) + "." + " category's name: ");
-        String name = scanner.nextLine();
-        System.out.print("Enter " + (index+1) + "." + " category's description: ");
-        String description = scanner.nextLine();
-        return new Category(name, description);
+    public static void inputCategory(Category[] categories, Scanner scanner) {
+        for (int i = 0; i < categories.length; i++)
+        {
+            System.out.print("Enter the name of the " + (i+1) + "." + " category: ");
+            String name = scanner.nextLine();
+            System.out.print("Enter the description of the " + (i+1) + "." + " category: ");
+            String description = scanner.nextLine();
+            categories[i] = new Category(name,description);
+        }
     }
+
 }
