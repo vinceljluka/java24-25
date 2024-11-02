@@ -1,5 +1,7 @@
 package hr.java.restaurant.model;
 
+import java.util.Scanner;
+
 public class Address {
     private String street;
     private String houseNumber;
@@ -44,4 +46,21 @@ public class Address {
     public void setPostalCode(String postalCode) {
         this.postalCode = postalCode;
     }
+
+    public static Address inputAddress(Scanner scanner) {
+        System.out.print("Enter the street: ");
+        String streetAddress = scanner.nextLine();
+
+        System.out.print("Enter the house number: ");
+        String houseNumber = scanner.nextLine();
+
+        System.out.print("Enter the city: ");
+        String city = scanner.nextLine();
+
+        System.out.print("Enter the postcode: ");
+        String postalCode = scanner.nextLine();
+
+        return new Address(streetAddress, houseNumber, city, postalCode);
+    }
+
 }
