@@ -1,0 +1,5 @@
+2024-11-13 15:21:50,232 INFO [main] h.j.p.m.Main [Main.java:18] Application started!
+2024-11-13 15:45:37,673 INFO [main] h.j.p.m.Main [Main.java:18] Application started!
+2024-11-13 15:45:56,767 INFO [main] h.j.p.m.Main [Main.java:18] Application started!
+2024-11-13 15:46:10,263 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:33] Invalid input, please enter a valid integer for category index.
+2024-11-13 15:46:14,779 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:28] Invalid input, please enter a valid integer for category index.
