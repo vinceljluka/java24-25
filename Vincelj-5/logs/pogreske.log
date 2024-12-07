@@ -1,0 +1,128 @@
+2024-11-13 15:21:50,232 INFO [main] h.j.p.m.Main [Main.java:18] Application started!
+2024-11-13 15:45:37,673 INFO [main] h.j.p.m.Main [Main.java:18] Application started!
+2024-11-13 15:45:56,767 INFO [main] h.j.p.m.Main [Main.java:18] Application started!
+2024-11-13 15:46:10,263 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:33] Invalid input, please enter a valid integer for category index.
+2024-11-13 15:46:14,779 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:28] Invalid input, please enter a valid integer for category index.
+2024-11-23 18:03:11,294 INFO [main] h.j.p.m.Main [Main.java:18] Application started!
+2024-11-23 18:03:17,479 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:41] Invalid input, please enter a valid integer for category index.
+2024-11-23 18:03:17,900 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:41] Invalid input, please enter a valid integer for category index.
+2024-11-23 18:03:18,182 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:41] Invalid input, please enter a valid integer for category index.
+2024-11-23 18:03:18,404 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:41] Invalid input, please enter a valid integer for category index.
+2024-11-23 18:03:18,550 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:41] Invalid input, please enter a valid integer for category index.
+2024-11-23 18:03:18,798 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:41] Invalid input, please enter a valid integer for category index.
+2024-11-23 19:13:30,435 INFO [main] h.j.p.m.Main [Main.java:18] Application started!
+2024-11-23 19:18:08,683 INFO [main] h.j.p.m.Main [Main.java:18] Application started!
+2024-11-23 19:33:52,423 INFO [main] h.j.p.m.Main [Main.java:18] Application started!
+2024-11-23 20:45:56,827 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 20:50:32,903 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 20:50:48,154 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 20:52:31,063 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:00:17,193 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:00:56,042 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:03:33,614 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:04:48,632 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:06:58,313 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:09:09,274 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:10:14,286 ERROR [main] h.j.r.m.Meal [Meal.java:104] Unreal price 1230
+2024-11-23 21:10:26,564 ERROR [main] h.j.r.m.Meal [Meal.java:104] Unreal price 1
+2024-11-23 21:16:46,551 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:19:06,264 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:20:13,873 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:20:34,502 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:25:12,068 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:27:09,640 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:39:58,144 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:43:10,331 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:44:19,021 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:45:45,450 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:47:14,506 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:54:08,121 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:54:22,833 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:45] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,834 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,834 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,834 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:45] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,835 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,835 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,835 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,835 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:45] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,835 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,835 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,836 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:45] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,836 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,836 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,836 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,836 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:45] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,836 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,836 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,836 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:45] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,837 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,837 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,837 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,837 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:45] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,837 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,837 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,837 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,837 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:45] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,839 ERROR [main] h.j.r.m.Meal [Meal.java:104] Unreal price 1
+2024-11-23 21:54:22,839 ERROR [main] h.j.r.m.Meal [Meal.java:104] Unreal price 1
+2024-11-23 21:54:22,839 ERROR [main] h.j.r.m.Meal [Meal.java:104] Unreal price 1
+2024-11-23 21:54:22,839 ERROR [main] h.j.r.m.Meal [Meal.java:104] Unreal price 1
+2024-11-23 21:54:22,839 ERROR [main] h.j.r.m.Meal [Meal.java:104] Unreal price 1
+2024-11-23 21:54:22,840 ERROR [main] h.j.r.m.Meal [Meal.java:104] Unreal price 1
+2024-11-23 21:55:20,981 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 22:17:22,331 INFO [main] h.j.p.m.Main [Main.java:18] Application started!
+2024-11-23 22:18:46,255 INFO [main] h.j.p.m.Main [Main.java:19] Application started!
+2024-11-23 22:19:28,267 INFO [main] h.j.p.m.Main [Main.java:19] Application started!
+2024-11-23 22:32:26,112 INFO [main] h.j.p.m.Main [Main.java:20] Application started!
+2024-11-23 22:33:07,599 INFO [main] h.j.p.m.Main [Main.java:20] Application started!
+2024-11-23 22:34:06,580 INFO [main] h.j.p.m.Main [Main.java:20] Application started!
+2024-11-23 22:36:21,440 INFO [main] h.j.p.m.Main [Main.java:20] Application started!
+2024-11-23 22:42:04,157 INFO [main] h.j.p.m.Main [Main.java:21] Application started!
+2024-11-23 22:43:45,041 INFO [main] h.j.p.m.Main [Main.java:21] Application started!
+2024-11-23 22:47:26,631 INFO [main] h.j.p.m.Main [Main.java:22] Application started!
+2024-11-23 23:01:57,287 INFO [main] h.j.p.m.Main [Main.java:23] Application started!
+2024-11-24 11:54:33,130 INFO [main] h.j.p.m.Main [Main.java:23] Application started!
+2024-11-24 12:19:10,227 INFO [main] h.j.p.m.Main [Main.java:24] Application started!
+2024-11-28 16:38:13,401 INFO [main] h.j.p.m.Main [Main.java:24] Application started!
+2024-11-28 17:08:13,080 INFO [main] h.j.p.m.Main [Main.java:26] Application started!
+2024-11-28 17:08:44,225 INFO [main] h.j.p.m.Main [Main.java:26] Application started!
+2024-11-28 17:18:35,467 INFO [main] h.j.p.m.Main [Main.java:26] Application started!
+2024-11-28 17:19:03,556 INFO [main] h.j.p.m.Main [Main.java:26] Application started!
+2024-11-28 17:19:24,131 INFO [main] h.j.p.m.Main [Main.java:26] Application started!
+2024-11-28 17:21:35,110 INFO [main] h.j.p.m.Main [Main.java:26] Application started!
+2024-11-28 17:24:31,436 INFO [main] h.j.p.m.Main [Main.java:26] Application started!
+2024-11-28 17:25:39,731 INFO [main] h.j.p.m.Main [Main.java:26] Application started!
+2024-11-28 17:32:25,455 INFO [main] h.j.p.m.Main [Main.java:26] Application started!
+2024-11-28 22:28:10,432 INFO [main] h.j.p.m.Main [Main.java:23] Application started!
+2024-11-30 13:18:38,437 INFO [main] h.j.p.m.Main [Main.java:23] Application started!
+2024-11-30 13:18:53,826 INFO [main] h.j.p.m.Main [Main.java:23] Application started!
+2024-11-30 13:27:54,117 INFO [main] h.j.p.m.Main [Main.java:24] Application started!
+2024-11-30 13:35:36,130 INFO [main] h.j.p.m.Main [Main.java:25] Application started!
+2024-11-30 13:52:27,230 INFO [main] h.j.p.m.Main [Main.java:25] Application started!
+2024-11-30 14:02:16,658 INFO [main] h.j.p.m.Main [Main.java:25] Application started!
+2024-12-01 14:56:10,699 INFO [main] h.j.p.m.Main [Main.java:25] Application started!
+2024-12-01 16:21:04,368 INFO [main] h.j.p.m.Main [Main.java:25] Application started!
+2024-12-01 17:22:07,704 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-01 17:22:54,934 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-01 17:23:22,192 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-01 17:31:48,502 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-01 17:34:18,847 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-01 17:36:02,556 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-01 17:37:49,023 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-01 17:38:02,383 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-01 21:46:32,764 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-05 16:46:58,320 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-05 16:47:34,972 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-05 17:02:00,790 INFO [main] h.j.p.m.Main [Main.java:29] Application started!
+2024-12-05 17:02:47,945 INFO [main] h.j.p.m.Main [Main.java:29] Application started!
+2024-12-05 17:03:32,408 INFO [main] h.j.p.m.Main [Main.java:29] Application started!
+2024-12-05 17:04:24,478 INFO [main] h.j.p.m.Main [Main.java:29] Application started!
+2024-12-05 17:04:39,502 INFO [main] h.j.p.m.Main [Main.java:29] Application started!
+2024-12-05 17:04:58,869 INFO [main] h.j.p.m.Main [Main.java:29] Application started!
+2024-12-05 17:07:43,424 INFO [main] h.j.p.m.Main [Main.java:30] Application started!
+2024-12-05 17:08:45,453 INFO [main] h.j.p.m.Main [Main.java:30] Application started!
+2024-12-05 17:09:00,804 INFO [main] h.j.p.m.Main [Main.java:30] Application started!
+2024-12-05 17:12:37,808 INFO [main] h.j.p.m.Main [Main.java:30] Application started!
+2024-12-05 17:14:13,586 INFO [main] h.j.p.m.Main [Main.java:30] Application started!
+2024-12-05 17:15:00,101 INFO [main] h.j.p.m.Main [Main.java:30] Application started!
+2024-12-05 17:16:46,549 INFO [main] h.j.p.m.Main [Main.java:30] Application started!
