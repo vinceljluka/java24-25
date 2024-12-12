@@ -1,0 +1,442 @@
+2024-11-13 15:21:50,232 INFO [main] h.j.p.m.Main [Main.java:18] Application started!
+2024-11-13 15:45:37,673 INFO [main] h.j.p.m.Main [Main.java:18] Application started!
+2024-11-13 15:45:56,767 INFO [main] h.j.p.m.Main [Main.java:18] Application started!
+2024-11-13 15:46:10,263 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:33] Invalid input, please enter a valid integer for category index.
+2024-11-13 15:46:14,779 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:28] Invalid input, please enter a valid integer for category index.
+2024-11-23 18:03:11,294 INFO [main] h.j.p.m.Main [Main.java:18] Application started!
+2024-11-23 18:03:17,479 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:41] Invalid input, please enter a valid integer for category index.
+2024-11-23 18:03:17,900 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:41] Invalid input, please enter a valid integer for category index.
+2024-11-23 18:03:18,182 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:41] Invalid input, please enter a valid integer for category index.
+2024-11-23 18:03:18,404 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:41] Invalid input, please enter a valid integer for category index.
+2024-11-23 18:03:18,550 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:41] Invalid input, please enter a valid integer for category index.
+2024-11-23 18:03:18,798 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:41] Invalid input, please enter a valid integer for category index.
+2024-11-23 19:13:30,435 INFO [main] h.j.p.m.Main [Main.java:18] Application started!
+2024-11-23 19:18:08,683 INFO [main] h.j.p.m.Main [Main.java:18] Application started!
+2024-11-23 19:33:52,423 INFO [main] h.j.p.m.Main [Main.java:18] Application started!
+2024-11-23 20:45:56,827 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 20:50:32,903 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 20:50:48,154 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 20:52:31,063 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:00:17,193 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:00:56,042 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:03:33,614 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:04:48,632 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:06:58,313 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:09:09,274 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:10:14,286 ERROR [main] h.j.r.m.Meal [Meal.java:104] Unreal price 1230
+2024-11-23 21:10:26,564 ERROR [main] h.j.r.m.Meal [Meal.java:104] Unreal price 1
+2024-11-23 21:16:46,551 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:19:06,264 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:20:13,873 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:20:34,502 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:25:12,068 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:27:09,640 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:39:58,144 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:43:10,331 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:44:19,021 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:45:45,450 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:47:14,506 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:54:08,121 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 21:54:22,833 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:45] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,834 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,834 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,834 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:45] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,835 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,835 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,835 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,835 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:45] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,835 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,835 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,836 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:45] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,836 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,836 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,836 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,836 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:45] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,836 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,836 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,836 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:45] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,837 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,837 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,837 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,837 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:45] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,837 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,837 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,837 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:40] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,837 ERROR [main] h.j.u.DataInputUtils [DataInputUtils.java:45] Invalid input, please enter a valid integer for category index.
+2024-11-23 21:54:22,839 ERROR [main] h.j.r.m.Meal [Meal.java:104] Unreal price 1
+2024-11-23 21:54:22,839 ERROR [main] h.j.r.m.Meal [Meal.java:104] Unreal price 1
+2024-11-23 21:54:22,839 ERROR [main] h.j.r.m.Meal [Meal.java:104] Unreal price 1
+2024-11-23 21:54:22,839 ERROR [main] h.j.r.m.Meal [Meal.java:104] Unreal price 1
+2024-11-23 21:54:22,839 ERROR [main] h.j.r.m.Meal [Meal.java:104] Unreal price 1
+2024-11-23 21:54:22,840 ERROR [main] h.j.r.m.Meal [Meal.java:104] Unreal price 1
+2024-11-23 21:55:20,981 INFO [main] h.j.p.m.Main [Main.java:15] Application started!
+2024-11-23 22:17:22,331 INFO [main] h.j.p.m.Main [Main.java:18] Application started!
+2024-11-23 22:18:46,255 INFO [main] h.j.p.m.Main [Main.java:19] Application started!
+2024-11-23 22:19:28,267 INFO [main] h.j.p.m.Main [Main.java:19] Application started!
+2024-11-23 22:32:26,112 INFO [main] h.j.p.m.Main [Main.java:20] Application started!
+2024-11-23 22:33:07,599 INFO [main] h.j.p.m.Main [Main.java:20] Application started!
+2024-11-23 22:34:06,580 INFO [main] h.j.p.m.Main [Main.java:20] Application started!
+2024-11-23 22:36:21,440 INFO [main] h.j.p.m.Main [Main.java:20] Application started!
+2024-11-23 22:42:04,157 INFO [main] h.j.p.m.Main [Main.java:21] Application started!
+2024-11-23 22:43:45,041 INFO [main] h.j.p.m.Main [Main.java:21] Application started!
+2024-11-23 22:47:26,631 INFO [main] h.j.p.m.Main [Main.java:22] Application started!
+2024-11-23 23:01:57,287 INFO [main] h.j.p.m.Main [Main.java:23] Application started!
+2024-11-24 11:54:33,130 INFO [main] h.j.p.m.Main [Main.java:23] Application started!
+2024-11-24 12:19:10,227 INFO [main] h.j.p.m.Main [Main.java:24] Application started!
+2024-11-28 16:38:13,401 INFO [main] h.j.p.m.Main [Main.java:24] Application started!
+2024-11-28 17:08:13,080 INFO [main] h.j.p.m.Main [Main.java:26] Application started!
+2024-11-28 17:08:44,225 INFO [main] h.j.p.m.Main [Main.java:26] Application started!
+2024-11-28 17:18:35,467 INFO [main] h.j.p.m.Main [Main.java:26] Application started!
+2024-11-28 17:19:03,556 INFO [main] h.j.p.m.Main [Main.java:26] Application started!
+2024-11-28 17:19:24,131 INFO [main] h.j.p.m.Main [Main.java:26] Application started!
+2024-11-28 17:21:35,110 INFO [main] h.j.p.m.Main [Main.java:26] Application started!
+2024-11-28 17:24:31,436 INFO [main] h.j.p.m.Main [Main.java:26] Application started!
+2024-11-28 17:25:39,731 INFO [main] h.j.p.m.Main [Main.java:26] Application started!
+2024-11-28 17:32:25,455 INFO [main] h.j.p.m.Main [Main.java:26] Application started!
+2024-11-28 22:28:10,432 INFO [main] h.j.p.m.Main [Main.java:23] Application started!
+2024-11-30 13:18:38,437 INFO [main] h.j.p.m.Main [Main.java:23] Application started!
+2024-11-30 13:18:53,826 INFO [main] h.j.p.m.Main [Main.java:23] Application started!
+2024-11-30 13:27:54,117 INFO [main] h.j.p.m.Main [Main.java:24] Application started!
+2024-11-30 13:35:36,130 INFO [main] h.j.p.m.Main [Main.java:25] Application started!
+2024-11-30 13:52:27,230 INFO [main] h.j.p.m.Main [Main.java:25] Application started!
+2024-11-30 14:02:16,658 INFO [main] h.j.p.m.Main [Main.java:25] Application started!
+2024-12-01 14:56:10,699 INFO [main] h.j.p.m.Main [Main.java:25] Application started!
+2024-12-01 16:21:04,368 INFO [main] h.j.p.m.Main [Main.java:25] Application started!
+2024-12-01 17:22:07,704 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-01 17:22:54,934 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-01 17:23:22,192 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-01 17:31:48,502 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-01 17:34:18,847 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-01 17:36:02,556 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-01 17:37:49,023 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-01 17:38:02,383 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-01 21:46:32,764 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-05 16:46:58,320 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-05 16:47:34,972 INFO [main] h.j.p.m.Main [Main.java:28] Application started!
+2024-12-05 17:02:00,790 INFO [main] h.j.p.m.Main [Main.java:29] Application started!
+2024-12-05 17:02:47,945 INFO [main] h.j.p.m.Main [Main.java:29] Application started!
+2024-12-05 17:03:32,408 INFO [main] h.j.p.m.Main [Main.java:29] Application started!
+2024-12-05 17:04:24,478 INFO [main] h.j.p.m.Main [Main.java:29] Application started!
+2024-12-05 17:04:39,502 INFO [main] h.j.p.m.Main [Main.java:29] Application started!
+2024-12-05 17:04:58,869 INFO [main] h.j.p.m.Main [Main.java:29] Application started!
+2024-12-05 17:07:43,424 INFO [main] h.j.p.m.Main [Main.java:30] Application started!
+2024-12-05 17:08:45,453 INFO [main] h.j.p.m.Main [Main.java:30] Application started!
+2024-12-05 17:09:00,804 INFO [main] h.j.p.m.Main [Main.java:30] Application started!
+2024-12-05 17:12:37,808 INFO [main] h.j.p.m.Main [Main.java:30] Application started!
+2024-12-05 17:14:13,586 INFO [main] h.j.p.m.Main [Main.java:30] Application started!
+2024-12-05 17:15:00,101 INFO [main] h.j.p.m.Main [Main.java:30] Application started!
+2024-12-05 17:16:46,549 INFO [main] h.j.p.m.Main [Main.java:30] Application started!
+2024-12-11 16:29:35,215 INFO [main] h.j.p.m.Main [Main.java:30] Application started!
+2024-12-11 17:59:31,792 ERROR [main] h.j.r.m.Meal [Meal.java:123] Error reading meals file: 
+java.lang.NumberFormatException: For input string: "Beef"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:618)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Meal.loadMealsFromFile(Meal.java:93)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:20)
+2024-12-11 18:00:32,461 ERROR [main] h.j.r.m.Meal [Meal.java:123] Error reading meals file: 
+java.lang.NumberFormatException: For input string: "Beef"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:618)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Meal.loadMealsFromFile(Meal.java:93)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:20)
+2024-12-11 18:02:02,672 ERROR [main] h.j.r.m.Meal [Meal.java:123] Error reading meals file: 
+java.lang.NumberFormatException: For input string: "Patka"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:618)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Meal.loadMealsFromFile(Meal.java:106)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:20)
+2024-12-11 18:03:06,010 ERROR [main] h.j.r.m.Meal [Meal.java:121] Error reading meals file: 
+java.lang.NumberFormatException: For input string: "Patka"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:618)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Meal.loadMealsFromFile(Meal.java:106)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:20)
+2024-12-11 18:03:36,208 ERROR [main] h.j.r.m.Meal [Meal.java:121] Error reading meals file: 
+java.lang.NumberFormatException: For input string: "Patka"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:618)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Meal.loadMealsFromFile(Meal.java:93)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:20)
+2024-12-11 18:04:16,904 ERROR [main] h.j.r.m.Meal [Meal.java:121] Error reading meals file: 
+java.lang.NumberFormatException: For input string: "Patka"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:618)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Meal.loadMealsFromFile(Meal.java:93)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:20)
+2024-12-11 18:21:12,450 INFO [main] h.j.p.m.Main [Main.java:30] Application started!
+2024-12-11 18:26:59,705 ERROR [main] h.j.r.m.Contract [Contract.java:114] Invalid data in contract file
+java.time.format.DateTimeParseException: Text '14-09-2024' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2108)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2010)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:420)
+	at hr.java.restaurant.model.Contract.loadContractsFromFile(Contract.java:103)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:24)
+2024-12-11 18:28:26,780 ERROR [main] h.j.r.m.Contract [Contract.java:114] Invalid data in contract file
+java.time.format.DateTimeParseException: Text '14-09-2024' could not be parsed at index 0
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2108)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:2010)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:435)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:420)
+	at hr.java.restaurant.model.Contract.loadContractsFromFile(Contract.java:103)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:24)
+2024-12-11 18:38:49,400 ERROR [main] h.j.r.m.Chef [Chef.java:119] Error reading chefs from file
+java.nio.file.NoSuchFileException: data/chef.txt
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:262)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:160)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2921)
+	at java.base/java.nio.file.Files.readAllLines(Files.java:3416)
+	at java.base/java.nio.file.Files.readAllLines(Files.java:3457)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:95)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:24)
+2024-12-11 18:41:00,973 ERROR [main] h.j.r.m.Chef [Chef.java:119] Error reading chefs from file
+java.nio.file.NoSuchFileException: data/chef.txt
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:262)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:160)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2921)
+	at java.base/java.nio.file.Files.readAllLines(Files.java:3416)
+	at java.base/java.nio.file.Files.readAllLines(Files.java:3457)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:95)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:24)
+2024-12-11 18:43:54,364 ERROR [main] h.j.r.m.Chef [Chef.java:126] Error reading chefs from file
+java.nio.file.NoSuchFileException: data/chef.txt
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newFileChannel(UnixFileSystemProvider.java:225)
+	at java.base/java.nio.channels.FileChannel.open(FileChannel.java:309)
+	at java.base/java.nio.channels.FileChannel.open(FileChannel.java:369)
+	at java.base/java.nio.file.Files.lines(Files.java:4138)
+	at java.base/java.nio.file.Files.lines(Files.java:4233)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:94)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:24)
+2024-12-11 18:44:24,692 ERROR [main] h.j.r.m.Chef [Chef.java:136] Error reading chefs from file
+java.nio.file.NoSuchFileException: data/chef.txt
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newFileChannel(UnixFileSystemProvider.java:225)
+	at java.base/java.nio.channels.FileChannel.open(FileChannel.java:309)
+	at java.base/java.nio.channels.FileChannel.open(FileChannel.java:369)
+	at java.base/java.nio.file.Files.lines(Files.java:4138)
+	at java.base/java.nio.file.Files.lines(Files.java:4233)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:104)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:24)
+2024-12-11 18:44:45,318 ERROR [main] h.j.r.m.Chef [Chef.java:136] Error reading chefs from file
+java.nio.file.NoSuchFileException: data/chefs.txt
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newFileChannel(UnixFileSystemProvider.java:225)
+	at java.base/java.nio.channels.FileChannel.open(FileChannel.java:309)
+	at java.base/java.nio.channels.FileChannel.open(FileChannel.java:369)
+	at java.base/java.nio.file.Files.lines(Files.java:4138)
+	at java.base/java.nio.file.Files.lines(Files.java:4233)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:104)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:24)
+2024-12-11 18:45:09,825 ERROR [main] h.j.r.m.Chef [Chef.java:138] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:108)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:24)
+2024-12-11 18:50:48,965 ERROR [main] h.j.r.m.Chef [Chef.java:138] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:108)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:24)
+2024-12-11 18:58:32,204 ERROR [main] h.j.r.m.Chef [Chef.java:138] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:108)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:24)
+2024-12-11 19:03:56,846 ERROR [main] h.j.r.m.Chef [Chef.java:138] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:108)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:25)
+2024-12-11 19:04:12,135 ERROR [main] h.j.r.m.Chef [Chef.java:138] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:108)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:25)
+2024-12-11 19:04:30,792 ERROR [main] h.j.r.m.Chef [Chef.java:138] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:108)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:25)
+2024-12-11 19:05:03,060 ERROR [main] h.j.r.m.Chef [Chef.java:138] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:108)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:25)
+2024-12-11 19:19:30,634 ERROR [main] h.j.r.m.Chef [Chef.java:144] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:114)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:25)
+2024-12-11 19:19:30,638 ERROR [main] h.j.r.m.Restaurant [Restaurant.java:145] Error reading restaurants file: 
+java.nio.file.NoSuchFileException: data/restaurants.txt
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newFileChannel(UnixFileSystemProvider.java:225)
+	at java.base/java.nio.channels.FileChannel.open(FileChannel.java:309)
+	at java.base/java.nio.channels.FileChannel.open(FileChannel.java:369)
+	at java.base/java.nio.file.Files.lines(Files.java:4138)
+	at java.base/java.nio.file.Files.lines(Files.java:4233)
+	at hr.java.restaurant.model.Restaurant.loadRestaurantsFromFile(Restaurant.java:85)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:37)
+2024-12-11 19:19:44,424 ERROR [main] h.j.r.m.Chef [Chef.java:144] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:114)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:25)
+2024-12-11 19:20:57,694 ERROR [main] h.j.r.m.Chef [Chef.java:145] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:114)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:25)
+2024-12-11 19:21:34,541 ERROR [main] h.j.r.m.Chef [Chef.java:145] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:114)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:25)
+2024-12-11 19:26:25,454 ERROR [main] h.j.r.m.Chef [Chef.java:145] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:114)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:25)
+2024-12-11 19:27:02,245 ERROR [main] h.j.r.m.Chef [Chef.java:145] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:114)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:25)
+2024-12-11 19:27:30,485 ERROR [main] h.j.r.m.Chef [Chef.java:145] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:114)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:25)
+2024-12-11 19:27:43,331 ERROR [main] h.j.r.m.Chef [Chef.java:145] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:114)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:25)
+2024-12-11 19:28:25,262 ERROR [main] h.j.r.m.Chef [Chef.java:145] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:114)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:25)
+2024-12-11 19:28:35,333 ERROR [main] h.j.r.m.Chef [Chef.java:145] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:114)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:25)
+2024-12-11 20:12:32,452 ERROR [main] h.j.r.m.Chef [Chef.java:145] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:114)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:25)
+2024-12-11 20:13:30,789 ERROR [main] h.j.r.m.Chef [Chef.java:145] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:114)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:28)
+2024-12-11 20:16:33,451 ERROR [main] h.j.r.m.Chef [Chef.java:145] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:114)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:28)
+2024-12-11 20:16:43,018 INFO [main] h.j.p.m.Main [Main.java:30] Application started!
+2024-12-12 10:35:50,907 ERROR [main] h.j.r.m.Chef [Chef.java:146] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:115)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:24)
+2024-12-12 10:41:00,969 ERROR [main] h.j.r.m.Chef [Chef.java:146] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:115)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:29)
+2024-12-12 10:41:23,211 ERROR [main] h.j.r.m.Chef [Chef.java:146] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:115)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:29)
+2024-12-12 10:43:42,853 ERROR [main] h.j.r.m.Chef [Chef.java:146] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:115)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:29)
+2024-12-12 11:09:54,335 ERROR [main] h.j.r.m.Chef [Chef.java:146] Invalid data format in chef file
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Long.parseLong(Long.java:595)
+	at java.base/java.lang.Long.parseLong(Long.java:722)
+	at hr.java.restaurant.model.Chef.loadChefsFromFile(Chef.java:115)
+	at hr.java.production.main.MainFiles.main(MainFiles.java:29)

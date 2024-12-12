@@ -1,0 +1,15 @@
+1
+Ivan
+Jedvaj
+2
+1500
+2
+Velimir
+Vincelj
+2
+2000
+3
+Vitomir
+Vincelj
+1
+1000

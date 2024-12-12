@@ -1,0 +1,25 @@
+1
+Sol
+2
+10
+Sastojak : sol
+2
+Papar
+2
+10
+Sastojak : papar
+3
+Cesnjak
+1
+10
+Sastojak : cesnjak
+4
+Paprika
+3
+21
+Sastojak : paprika
+5
+Luk
+1
+10
+Sastojak : luk
