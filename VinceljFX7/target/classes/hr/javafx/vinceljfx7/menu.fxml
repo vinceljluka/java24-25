@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+
+<MenuBar maxWidth="1.7976931348623157E308" minWidth="-Infinity" prefWidth="800.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hr.javafx.vinceljfx7.controller.FirstScreenControler">
+    <menus>
+      <Menu mnemonicParsing="false" text="Contract">
+        <items>
+          <MenuItem mnemonicParsing="false" onAction="#showSearchAndAddContractScreen" text="addAndSearch" />
+        </items>
+      </Menu>
+        <Menu mnemonicParsing="false" text="Category">
+            <items>
+                <MenuItem mnemonicParsing="false" onAction="#showSearchCategoryScreen" text="Search" />
+            </items>
+        </Menu>
+        <Menu mnemonicParsing="false" text="Ingredients">
+            <items>
+                <MenuItem mnemonicParsing="false" onAction="#showSearchIngredientsScreen" text="Search" />
+            </items>
+        </Menu>
+        <Menu mnemonicParsing="false" text="Meals">
+            <items>
+                <MenuItem mnemonicParsing="false" onAction="#showSearchMealScreen" text="Search" />
+            </items>
+        </Menu>
+        <Menu mnemonicParsing="false" text="Chefs">
+            <items>
+                <MenuItem mnemonicParsing="false" onAction="#showSearchChefScreen" text="Search" />
+            </items>
+        </Menu>
+        <Menu mnemonicParsing="false" text="Waiters">
+            <items>
+                <MenuItem mnemonicParsing="false" onAction="#showSearchWaiterScreen" text="Search" />
+            </items>
+        </Menu>
+        <Menu mnemonicParsing="false" text="Deliverers">
+            <items>
+                <MenuItem mnemonicParsing="false" onAction="#showSearchDelivererScreen" text="Search" />
+            </items>
+        </Menu>
+        <Menu mnemonicParsing="false" text="Restaurants">
+            <items>
+                <MenuItem mnemonicParsing="false" onAction="#showSearchRestaurantScreen" text="Search" />
+            </items>
+        </Menu>
+    </menus>
+</MenuBar>
